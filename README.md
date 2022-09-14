@@ -2,7 +2,7 @@
 <h3 align="center">About me?</h3>
 
 ```rb
-Hi my name is Ple Mountain
+Hi my name is Debug
 
 • I am from Panama
 • I am a programmer, programming is just my hobby
