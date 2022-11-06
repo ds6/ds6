@@ -2,7 +2,7 @@
 <h3 align="center">About me?</h3>
 
 ```rb
-Hi my name is Fumando
+Hi my name is DemionKlaz
 
 • I am from Panama
 • I am a programmer, programming is just my hobby
